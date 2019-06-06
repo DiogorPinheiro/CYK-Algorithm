@@ -1,0 +1,13 @@
+aabb
+11
+S -> A B 
+S -> B B
+A -> C C 
+A -> A B 
+A -> a
+B -> B B 
+B -> C A
+B -> b
+C -> B A 
+C -> A A
+C -> b

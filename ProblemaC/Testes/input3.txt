@@ -1,0 +1,11 @@
+aaabbbcc
+9
+S -> A B
+A -> C D
+A -> C F
+B -> c 
+B -> E B
+C -> a
+D -> b
+E -> c
+F -> A D
